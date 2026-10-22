@@ -1,0 +1,12 @@
+[
+  {
+    "username": "invalid_user",
+    "password": "WrongPassword1",
+    "expectedError": "Your username is invalid!"
+  },
+  {
+    "username": "practice_qa",
+    "password": "badpassword",
+    "expectedError": "Your username is invalid!"
+  }
+]
